@@ -1,0 +1,13 @@
+{
+  "id" : "https://egray523.github.io/Louis-de-Marillac-Catherine-de-Medicis-Contrat-Mariage/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in egray523/Louis-de-Marillac-Catherine-de-Medicis-Contrat-Mariage project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://egray523.github.io/Louis-de-Marillac-Catherine-de-Medicis-Contrat-Mariage/manifests/manifest-LdMCdM-mariage.json",
+    "label" : "Louis de Marillac and Catherine de Medicis Marriage Contract "
+  } ]
+}
