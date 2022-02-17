@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://egray523.github.io/Louis-de-Marillac-Catherine-de-Medicis-Contrat-Mariage/manifests/manifest-LdMCdM-mariage.json",
     "label" : "Louis de Marillac and Catherine de Medicis Marriage Contract "
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://egray523.github.io/Louis-de-Marillac-Catherine-de-Medicis-Contrat-Mariage/manifests/LdM-CdM-Anno.json",
+    "label" : "Louis de Marillac and Catherine de Medicis Marriage Contract "
   } ]
 }
