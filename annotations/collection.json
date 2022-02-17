@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://egray523.github.io/Louis-de-Marillac-Catherine-de-Medicis-Contrat-Mariage/annotations/90cb68dff8f2e2bbeb2d1066444d6169.json" ],
+  "otherContent" : [ "https://egray523.github.io/Louis-de-Marillac-Catherine-de-Medicis-Contrat-Mariage/annotations/90cb68dff8f2e2bbeb2d1066444d6169.json", "https://egray523.github.io/Louis-de-Marillac-Catherine-de-Medicis-Contrat-Mariage/annotations/96b25822a059d1acd3a79a0bc3ee893b.json" ],
   "@id" : "https://egray523.github.io/Louis-de-Marillac-Catherine-de-Medicis-Contrat-Mariage/annotations/collection.json",
   "label" : "All annotations loaded in egray523/Louis-de-Marillac-Catherine-de-Medicis-Contrat-Mariage project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
