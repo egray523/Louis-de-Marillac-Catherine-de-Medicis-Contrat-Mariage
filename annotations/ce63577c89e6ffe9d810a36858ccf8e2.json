@@ -1,0 +1,336 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Comtesse de Bardi",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Comtesse de Bardi</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/57158877",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-17T00:04:35",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645056275996",
+    "dcterms:modified" : "2022-02-17T00:04:35",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://egray523.github.io/Louis-de-Marillac-Catherine-de-Medicis-Contrat-Mariage/manifests/manifest-LdMCdM-mariage.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3945,1407,102,974"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4046.78887,1407.20906h-50.79441v0h-50.79441v487.16121v487.16121h50.79441h50.79441v-487.16121z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_469df5cf-5210-4eee-b2b4-3d3361180f18\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://20a0d645-b86d-4566-8541-4ec7ae9be3a6"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Loys (Louis) de Marillac",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Loys (Louis) de Marillac</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/57158877",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-17T00:03:01",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645056181169",
+    "dcterms:modified" : "2022-02-17T09:14:36",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://egray523.github.io/Louis-de-Marillac-Catherine-de-Medicis-Contrat-Mariage/manifests/manifest-LdMCdM-mariage.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=4827,1156,120,751"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4947.08217,1156.30397h-60.02324v0h-60.02324v375.27586v375.27586h60.02324h60.02324v-375.27586z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_0a95bd98-d1fa-4bef-a139-fad91f73ca31\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"13.0794\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://20a0d645-b86d-4566-8541-4ec7ae9be3a6"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Genevieve Boislevesque",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Genevieve Boislevesque</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/57158877",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-17T00:03:49",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645056229479",
+    "dcterms:modified" : "2022-02-17T00:03:49",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://egray523.github.io/Louis-de-Marillac-Catherine-de-Medicis-Contrat-Mariage/manifests/manifest-LdMCdM-mariage.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=4481,2641,128,763"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4609.42026,2641.20275h-64.09145v0h-64.09145v381.37818v381.37818h64.09145h64.09145v-381.37818z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_c2fd097c-8297-4ff1-b20d-cc7202645d09\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://20a0d645-b86d-4566-8541-4ec7ae9be3a6"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Caterina de Medicis",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Caterina de Medicis</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/57158877",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-17T00:04:01",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645056241907",
+    "dcterms:modified" : "2022-02-17T00:04:01",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://egray523.github.io/Louis-de-Marillac-Catherine-de-Medicis-Contrat-Mariage/manifests/manifest-LdMCdM-mariage.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=4184,1148,153,954"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4336.8498,1148.16753h-76.2961v0h-76.2961v476.98125v476.98125h76.2961h76.2961v-476.98125z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_5184ab9a-0d9b-4ccf-8da7-47b9da0ba5dc\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://20a0d645-b86d-4566-8541-4ec7ae9be3a6"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Cosimo de Medicis",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Cosimo de Medicis</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/57158877",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-17T00:04:24",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645056264715",
+    "dcterms:modified" : "2022-02-17T00:04:24",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://egray523.github.io/Louis-de-Marillac-Catherine-de-Medicis-Contrat-Mariage/manifests/manifest-LdMCdM-mariage.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=4084,2349,132,817"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4216.29786,2348.92569h-66.09731v0h-66.09731v408.29244v408.29244h66.09731h66.09731v-408.29244z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_255e0479-6531-404d-a5f5-77d4e41a3d8f\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://20a0d645-b86d-4566-8541-4ec7ae9be3a6"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "\"du Roy et de la Royne\" Louis XIII and Marie de Medicis",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>\"du Roy et de la Royne\" Louis XIII and Marie de Medicis</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/57158877",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-17T09:18:48",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645089528657",
+    "dcterms:modified" : "2022-02-17T09:18:48",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://egray523.github.io/Louis-de-Marillac-Catherine-de-Medicis-Contrat-Mariage/manifests/manifest-LdMCdM-mariage.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3502,2295,152,1086"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3654.25643,2294.50702h-75.91171v0h-75.91171v542.77513v542.77513h75.91171h75.91171v-542.77513z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_1f06d764-ff19-48e9-95b8-6d988b082035\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://20a0d645-b86d-4566-8541-4ec7ae9be3a6"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "gentilhome \"ord(inai)re de la chambre du Roy\"",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>gentilhome \"ord(inai)re de la chambre du Roy\"</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/57158877",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-17T09:17:16",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645089436592",
+    "dcterms:modified" : "2022-02-17T09:17:16",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://egray523.github.io/Louis-de-Marillac-Catherine-de-Medicis-Contrat-Mariage/manifests/manifest-LdMCdM-mariage.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=4721,1244,67,922"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4788.45471,1243.99849h-33.54545v0h-33.54545v461v461h33.54545h33.54545v-461z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_3276bedc-30e1-44e7-9729-b8142e15337d\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://20a0d645-b86d-4566-8541-4ec7ae9be3a6"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Jehan et Laurent de monhenault - notaires",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Jehan et Laurent de monhenault - notaires</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/57158877",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-17T09:16:12",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645089372743",
+    "dcterms:modified" : "2022-02-17T09:16:12",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://egray523.github.io/Louis-de-Marillac-Catherine-de-Medicis-Contrat-Mariage/manifests/manifest-LdMCdM-mariage.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=5139,2041,105,1166"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M5243.90909,2041.08942h-52.63636v0h-52.63636v582.81818v582.81818h52.63636h52.63636v-582.81818z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_d8dbfe41-619b-415c-87d1-80f9f733066b\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://20a0d645-b86d-4566-8541-4ec7ae9be3a6"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Guillaumme de Marillac",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Guillaumme de Marillac</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/57158877",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-17T00:03:19",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645056199533",
+    "dcterms:modified" : "2022-02-17T00:03:19",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://egray523.github.io/Louis-de-Marillac-Catherine-de-Medicis-Contrat-Mariage/manifests/manifest-LdMCdM-mariage.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=4738,2694,75,657"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4812.83105,2694.08956h-37.64805v0h-37.64805v328.49138v328.49138h37.64805h37.64805v-328.49138z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_444b10a1-6428-4260-9bc3-bc095e0ffd64\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://20a0d645-b86d-4566-8541-4ec7ae9be3a6"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Paris",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Paris</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/57158877",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-17T09:16:24",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645089384040",
+    "dcterms:modified" : "2022-02-17T09:16:24",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://egray523.github.io/Louis-de-Marillac-Catherine-de-Medicis-Contrat-Mariage/manifests/manifest-LdMCdM-mariage.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=5033,2815,78,357"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M5110.63641,2815.08941h-39v0h-39v178.72727v178.72727h39h39v-178.72727z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_fdd3daa3-0e91-4872-bb6d-59f4973f0cd3\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://20a0d645-b86d-4566-8541-4ec7ae9be3a6"
+    } ]
+  } ],
+  "@id" : "https://egray523.github.io/Louis-de-Marillac-Catherine-de-Medicis-Contrat-Mariage/annotations/ce63577c89e6ffe9d810a36858ccf8e2.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
